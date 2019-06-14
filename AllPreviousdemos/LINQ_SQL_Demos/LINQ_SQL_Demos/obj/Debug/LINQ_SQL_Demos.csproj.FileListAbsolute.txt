@@ -1,0 +1,7 @@
+D:\MyOwnCR\C#ProgrammingMay2019\LINQ_SQL_Demos\LINQ_SQL_Demos\bin\Debug\LINQ_SQL_Demos.exe.config
+D:\MyOwnCR\C#ProgrammingMay2019\LINQ_SQL_Demos\LINQ_SQL_Demos\bin\Debug\LINQ_SQL_Demos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\LINQ_SQL_Demos\LINQ_SQL_Demos\bin\Debug\LINQ_SQL_Demos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\LINQ_SQL_Demos\LINQ_SQL_Demos\obj\Debug\LINQ_SQL_Demos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\LINQ_SQL_Demos\LINQ_SQL_Demos\obj\Debug\LINQ_SQL_Demos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\LINQ_SQL_Demos\LINQ_SQL_Demos\obj\Debug\LINQ_SQL_Demos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\LINQ_SQL_Demos\LINQ_SQL_Demos\obj\Debug\LINQ_SQL_Demos.csprojAssemblyReference.cache

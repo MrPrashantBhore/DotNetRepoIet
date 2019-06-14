@@ -1,0 +1,13 @@
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\bin\Debug\MyGUiAppFirst.exe.config
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\bin\Debug\MyGUiAppFirst.exe
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\bin\Debug\MyGUiAppFirst.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\obj\Debug\MyGUiAppFirst.csprojAssemblyReference.cache
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\obj\Debug\MyGUiAppFirst.Form1.resources
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\obj\Debug\MyGUiAppFirst.Properties.Resources.resources
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\obj\Debug\MyGUiAppFirst.csproj.GenerateResource.cache
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\obj\Debug\MyGUiAppFirst.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\obj\Debug\MyGUiAppFirst.exe
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\obj\Debug\MyGUiAppFirst.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\obj\Debug\MyGUiAppFirst.FormDB.resources
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\obj\Debug\MyGUiAppFirst.MDIParentDemo.resources
+D:\MyOwnCR\C#ProgrammingMay2019\MyGUiAppFirst\MyGUiAppFirst\obj\Debug\MyGUiAppFirst.Form2.resources

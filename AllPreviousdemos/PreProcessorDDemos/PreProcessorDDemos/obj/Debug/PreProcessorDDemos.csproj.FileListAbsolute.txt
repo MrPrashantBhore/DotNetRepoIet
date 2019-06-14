@@ -1,0 +1,13 @@
+D:\MyOwnCR\C#Programming\PreProcessorDDemos\PreProcessorDDemos\bin\Debug\PreProcessorDDemos.exe.config
+D:\MyOwnCR\C#Programming\PreProcessorDDemos\PreProcessorDDemos\bin\Debug\PreProcessorDDemos.exe
+D:\MyOwnCR\C#Programming\PreProcessorDDemos\PreProcessorDDemos\bin\Debug\PreProcessorDDemos.pdb
+D:\MyOwnCR\C#Programming\PreProcessorDDemos\PreProcessorDDemos\obj\Debug\PreProcessorDDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\PreProcessorDDemos\PreProcessorDDemos\obj\Debug\PreProcessorDDemos.exe
+D:\MyOwnCR\C#Programming\PreProcessorDDemos\PreProcessorDDemos\obj\Debug\PreProcessorDDemos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\PreProcessorDDemos\PreProcessorDDemos\obj\Debug\PreProcessorDDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\C#ProgrammingMay2019\PreProcessorDDemos\PreProcessorDDemos\obj\Debug\PreProcessorDDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\PreProcessorDDemos\PreProcessorDDemos\obj\Debug\PreProcessorDDemos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\PreProcessorDDemos\PreProcessorDDemos\obj\Debug\PreProcessorDDemos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\PreProcessorDDemos\PreProcessorDDemos\bin\Debug\PreProcessorDDemos.exe.config
+D:\MyOwnCR\C#ProgrammingMay2019\PreProcessorDDemos\PreProcessorDDemos\bin\Debug\PreProcessorDDemos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\PreProcessorDDemos\PreProcessorDDemos\bin\Debug\PreProcessorDDemos.pdb

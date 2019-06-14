@@ -1,0 +1,6 @@
+D:\MyOwnCR\C#Programming\DelegateDemos\Callbackdel\bin\Debug\Callbackdel.exe.config
+D:\MyOwnCR\C#Programming\DelegateDemos\Callbackdel\bin\Debug\Callbackdel.exe
+D:\MyOwnCR\C#Programming\DelegateDemos\Callbackdel\bin\Debug\Callbackdel.pdb
+D:\MyOwnCR\C#Programming\DelegateDemos\Callbackdel\obj\Debug\Callbackdel.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\DelegateDemos\Callbackdel\obj\Debug\Callbackdel.exe
+D:\MyOwnCR\C#Programming\DelegateDemos\Callbackdel\obj\Debug\Callbackdel.pdb

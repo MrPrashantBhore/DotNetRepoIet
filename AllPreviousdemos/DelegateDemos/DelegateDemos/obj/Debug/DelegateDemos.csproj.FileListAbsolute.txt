@@ -1,0 +1,14 @@
+D:\MyOwnCR\C#Programming\DelegateDemos\DelegateDemos\bin\Debug\DelegateDemos.exe.config
+D:\MyOwnCR\C#Programming\DelegateDemos\DelegateDemos\bin\Debug\DelegateDemos.exe
+D:\MyOwnCR\C#Programming\DelegateDemos\DelegateDemos\bin\Debug\DelegateDemos.pdb
+D:\MyOwnCR\C#Programming\DelegateDemos\DelegateDemos\obj\Debug\DelegateDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\C#Programming\DelegateDemos\DelegateDemos\obj\Debug\DelegateDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\DelegateDemos\DelegateDemos\obj\Debug\DelegateDemos.exe
+D:\MyOwnCR\C#Programming\DelegateDemos\DelegateDemos\obj\Debug\DelegateDemos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\DelegateDemos\bin\Debug\DelegateDemos.exe.config
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\DelegateDemos\bin\Debug\DelegateDemos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\DelegateDemos\bin\Debug\DelegateDemos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\DelegateDemos\obj\Debug\DelegateDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\DelegateDemos\obj\Debug\DelegateDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\DelegateDemos\obj\Debug\DelegateDemos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\DelegateDemos\obj\Debug\DelegateDemos.pdb

@@ -1,0 +1,14 @@
+D:\MyOwnCR\CDAC\C#\BasicLang\BasicLang\bin\Debug\BasicLang.exe.config
+D:\MyOwnCR\CDAC\C#\BasicLang\BasicLang\bin\Debug\BasicLang.exe
+D:\MyOwnCR\CDAC\C#\BasicLang\BasicLang\bin\Debug\BasicLang.pdb
+D:\MyOwnCR\CDAC\C#\BasicLang\BasicLang\obj\Debug\BasicLang.csprojAssemblyReference.cache
+D:\MyOwnCR\CDAC\C#\BasicLang\BasicLang\obj\Debug\BasicLang.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\CDAC\C#\BasicLang\BasicLang\obj\Debug\BasicLang.exe
+D:\MyOwnCR\CDAC\C#\BasicLang\BasicLang\obj\Debug\BasicLang.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\BasicLang\BasicLang\bin\Debug\BasicLang.exe.config
+D:\MyOwnCR\C#ProgrammingMay2019\BasicLang\BasicLang\bin\Debug\BasicLang.exe
+D:\MyOwnCR\C#ProgrammingMay2019\BasicLang\BasicLang\bin\Debug\BasicLang.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\BasicLang\BasicLang\obj\Debug\BasicLang.csprojAssemblyReference.cache
+D:\MyOwnCR\C#ProgrammingMay2019\BasicLang\BasicLang\obj\Debug\BasicLang.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\BasicLang\BasicLang\obj\Debug\BasicLang.exe
+D:\MyOwnCR\C#ProgrammingMay2019\BasicLang\BasicLang\obj\Debug\BasicLang.pdb

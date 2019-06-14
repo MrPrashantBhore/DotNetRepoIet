@@ -1,0 +1,14 @@
+D:\MyOwnCR\C#Programming\Reflectiondemos\Reflectiondemos\bin\Debug\Reflectiondemos.exe.config
+D:\MyOwnCR\C#Programming\Reflectiondemos\Reflectiondemos\bin\Debug\Reflectiondemos.exe
+D:\MyOwnCR\C#Programming\Reflectiondemos\Reflectiondemos\bin\Debug\Reflectiondemos.pdb
+D:\MyOwnCR\C#Programming\Reflectiondemos\Reflectiondemos\obj\Debug\Reflectiondemos.csprojAssemblyReference.cache
+D:\MyOwnCR\C#Programming\Reflectiondemos\Reflectiondemos\obj\Debug\Reflectiondemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\Reflectiondemos\Reflectiondemos\obj\Debug\Reflectiondemos.exe
+D:\MyOwnCR\C#Programming\Reflectiondemos\Reflectiondemos\obj\Debug\Reflectiondemos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\Reflectiondemos\bin\Debug\Reflectiondemos.exe.config
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\Reflectiondemos\bin\Debug\Reflectiondemos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\Reflectiondemos\bin\Debug\Reflectiondemos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\Reflectiondemos\obj\Debug\Reflectiondemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\Reflectiondemos\obj\Debug\Reflectiondemos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\Reflectiondemos\obj\Debug\Reflectiondemos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\Reflectiondemos\obj\Debug\Reflectiondemos.csprojAssemblyReference.cache

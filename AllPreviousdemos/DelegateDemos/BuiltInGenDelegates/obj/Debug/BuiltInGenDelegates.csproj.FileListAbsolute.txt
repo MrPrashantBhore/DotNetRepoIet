@@ -1,0 +1,14 @@
+D:\MyOwnCR\C#Programming\DelegateDemos\BuiltInGenDelegates\bin\Debug\BuiltInGenDelegates.exe.config
+D:\MyOwnCR\C#Programming\DelegateDemos\BuiltInGenDelegates\bin\Debug\BuiltInGenDelegates.exe
+D:\MyOwnCR\C#Programming\DelegateDemos\BuiltInGenDelegates\bin\Debug\BuiltInGenDelegates.pdb
+D:\MyOwnCR\C#Programming\DelegateDemos\BuiltInGenDelegates\obj\Debug\BuiltInGenDelegates.csprojAssemblyReference.cache
+D:\MyOwnCR\C#Programming\DelegateDemos\BuiltInGenDelegates\obj\Debug\BuiltInGenDelegates.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\DelegateDemos\BuiltInGenDelegates\obj\Debug\BuiltInGenDelegates.exe
+D:\MyOwnCR\C#Programming\DelegateDemos\BuiltInGenDelegates\obj\Debug\BuiltInGenDelegates.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\BuiltInGenDelegates\obj\Debug\BuiltInGenDelegates.csprojAssemblyReference.cache
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\BuiltInGenDelegates\obj\Debug\BuiltInGenDelegates.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\BuiltInGenDelegates\obj\Debug\BuiltInGenDelegates.exe
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\BuiltInGenDelegates\obj\Debug\BuiltInGenDelegates.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\BuiltInGenDelegates\bin\Debug\BuiltInGenDelegates.exe.config
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\BuiltInGenDelegates\bin\Debug\BuiltInGenDelegates.exe
+D:\MyOwnCR\C#ProgrammingMay2019\DelegateDemos\BuiltInGenDelegates\bin\Debug\BuiltInGenDelegates.pdb

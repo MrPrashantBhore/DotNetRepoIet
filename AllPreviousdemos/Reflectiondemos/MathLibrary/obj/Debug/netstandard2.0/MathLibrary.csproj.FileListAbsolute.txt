@@ -1,0 +1,17 @@
+D:\MyOwnCR\C#Programming\Reflectiondemos\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.deps.json
+D:\MyOwnCR\C#Programming\Reflectiondemos\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.dll
+D:\MyOwnCR\C#Programming\Reflectiondemos\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.pdb
+D:\MyOwnCR\C#Programming\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csprojAssemblyReference.cache
+D:\MyOwnCR\C#Programming\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfoInputs.cache
+D:\MyOwnCR\C#Programming\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfo.cs
+D:\MyOwnCR\C#Programming\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.dll
+D:\MyOwnCR\C#Programming\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.deps.json
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.dll
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfoInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfo.cs
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.dll
+D:\MyOwnCR\C#ProgrammingMay2019\Reflectiondemos\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.pdb

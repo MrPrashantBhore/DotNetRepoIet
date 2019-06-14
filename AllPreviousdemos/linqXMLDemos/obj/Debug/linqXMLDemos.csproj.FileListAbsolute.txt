@@ -1,0 +1,14 @@
+D:\MyOwnCR\C#Programming\DatabaseDemos\linqXMLDemos\bin\Debug\linqXMLDemos.exe.config
+D:\MyOwnCR\C#Programming\DatabaseDemos\linqXMLDemos\bin\Debug\linqXMLDemos.exe
+D:\MyOwnCR\C#Programming\DatabaseDemos\linqXMLDemos\bin\Debug\linqXMLDemos.pdb
+D:\MyOwnCR\C#Programming\DatabaseDemos\linqXMLDemos\obj\Debug\linqXMLDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\C#Programming\DatabaseDemos\linqXMLDemos\obj\Debug\linqXMLDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\DatabaseDemos\linqXMLDemos\obj\Debug\linqXMLDemos.exe
+D:\MyOwnCR\C#Programming\DatabaseDemos\linqXMLDemos\obj\Debug\linqXMLDemos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\linqXMLDemos\bin\Debug\linqXMLDemos.exe.config
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\linqXMLDemos\bin\Debug\linqXMLDemos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\linqXMLDemos\bin\Debug\linqXMLDemos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\linqXMLDemos\obj\Debug\linqXMLDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\linqXMLDemos\obj\Debug\linqXMLDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\linqXMLDemos\obj\Debug\linqXMLDemos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\linqXMLDemos\obj\Debug\linqXMLDemos.pdb

@@ -1,0 +1,13 @@
+D:\MyOwnCR\C#Programming\CoolelctionDemos\CoolelctionDemos\bin\Debug\CoolelctionDemos.exe.config
+D:\MyOwnCR\C#Programming\CoolelctionDemos\CoolelctionDemos\bin\Debug\CoolelctionDemos.exe
+D:\MyOwnCR\C#Programming\CoolelctionDemos\CoolelctionDemos\bin\Debug\CoolelctionDemos.pdb
+D:\MyOwnCR\C#Programming\CoolelctionDemos\CoolelctionDemos\obj\Debug\CoolelctionDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\C#Programming\CoolelctionDemos\CoolelctionDemos\obj\Debug\CoolelctionDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\CoolelctionDemos\CoolelctionDemos\obj\Debug\CoolelctionDemos.exe
+D:\MyOwnCR\C#Programming\CoolelctionDemos\CoolelctionDemos\obj\Debug\CoolelctionDemos.pdb
+C:\Users\iet58\Desktop\Dotnet 15-6-19\Dotnet\AllPreviousdemos\CoolelctionDemos\CoolelctionDemos\bin\Debug\CoolelctionDemos.exe.config
+C:\Users\iet58\Desktop\Dotnet 15-6-19\Dotnet\AllPreviousdemos\CoolelctionDemos\CoolelctionDemos\obj\Debug\CoolelctionDemos.exe
+C:\Users\iet58\Desktop\Dotnet 15-6-19\Dotnet\AllPreviousdemos\CoolelctionDemos\CoolelctionDemos\obj\Debug\CoolelctionDemos.pdb
+C:\Users\iet58\Desktop\Dotnet 15-6-19\Dotnet\AllPreviousdemos\CoolelctionDemos\CoolelctionDemos\obj\Debug\CoolelctionDemos.csprojResolveAssemblyReference.cache
+C:\Users\iet58\Desktop\Dotnet 15-6-19\Dotnet\AllPreviousdemos\CoolelctionDemos\CoolelctionDemos\bin\Debug\CoolelctionDemos.exe
+C:\Users\iet58\Desktop\Dotnet 15-6-19\Dotnet\AllPreviousdemos\CoolelctionDemos\CoolelctionDemos\bin\Debug\CoolelctionDemos.pdb

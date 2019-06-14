@@ -1,0 +1,7 @@
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\AsyncDemos\obj\Debug\AsyncDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\AsyncDemos\obj\Debug\AsyncDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\AsyncDemos\bin\Debug\AsyncDemos.exe.config
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\AsyncDemos\bin\Debug\AsyncDemos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\AsyncDemos\bin\Debug\AsyncDemos.pdb
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\AsyncDemos\obj\Debug\AsyncDemos.exe
+D:\MyOwnCR\C#ProgrammingMay2019\DatabaseDemos\AsyncDemos\obj\Debug\AsyncDemos.pdb
