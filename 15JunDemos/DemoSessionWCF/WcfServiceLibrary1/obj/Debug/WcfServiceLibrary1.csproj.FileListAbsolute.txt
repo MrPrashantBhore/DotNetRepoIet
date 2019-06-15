@@ -1,0 +1,14 @@
+D:\MyOwnCR\C#Programming\DemoSessionWCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+D:\MyOwnCR\C#Programming\DemoSessionWCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\DemoSessionWCF\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\MyOwnCR\C#Programming\DemoSessionWCF\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\MyOwnCR\C#Programming\DemoSessionWCF\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\MyOwnCR\C#Programming\DemoSessionWCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\MyOwnCR\C#Programming\DemoSessionWCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\DemoSessionWCF\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\MyOwnCR\WCFDemos\15JunDemos\DemoSessionWCF\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\MyOwnCR\WCFDemos\15JunDemos\DemoSessionWCF\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\DemoSessionWCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\DemoSessionWCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\DemoSessionWCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\MyOwnCR\WCFDemos\15JunDemos\DemoSessionWCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

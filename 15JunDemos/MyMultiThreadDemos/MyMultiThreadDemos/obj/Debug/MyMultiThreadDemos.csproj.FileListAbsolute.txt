@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\15JunDemos\MyMultiThreadDemos\MyMultiThreadDemos\bin\Debug\MyMultiThreadDemos.exe.config
+D:\MyOwnCR\WCFDemos\15JunDemos\MyMultiThreadDemos\MyMultiThreadDemos\bin\Debug\MyMultiThreadDemos.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\MyMultiThreadDemos\MyMultiThreadDemos\bin\Debug\MyMultiThreadDemos.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\MyMultiThreadDemos\MyMultiThreadDemos\obj\Debug\MyMultiThreadDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\MyMultiThreadDemos\MyMultiThreadDemos\obj\Debug\MyMultiThreadDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\MyMultiThreadDemos\MyMultiThreadDemos\obj\Debug\MyMultiThreadDemos.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\MyMultiThreadDemos\MyMultiThreadDemos\obj\Debug\MyMultiThreadDemos.pdb

@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\15JunDemos\WCfTCPClientDemo\WCfTCPClientDemo\bin\Debug\WCfTCPClientDemo.exe.config
+D:\MyOwnCR\WCFDemos\15JunDemos\WCfTCPClientDemo\WCfTCPClientDemo\bin\Debug\WCfTCPClientDemo.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\WCfTCPClientDemo\WCfTCPClientDemo\bin\Debug\WCfTCPClientDemo.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\WCfTCPClientDemo\WCfTCPClientDemo\obj\Debug\WCfTCPClientDemo.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\WCfTCPClientDemo\WCfTCPClientDemo\obj\Debug\WCfTCPClientDemo.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\WCfTCPClientDemo\WCfTCPClientDemo\obj\Debug\WCfTCPClientDemo.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\WCfTCPClientDemo\WCfTCPClientDemo\obj\Debug\WCfTCPClientDemo.pdb

@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\ServicenettcpDemos\ServicenettcpDemos\bin\Debug\ServicenettcpDemos.exe.config
+D:\MyOwnCR\WCFDemos\ServicenettcpDemos\ServicenettcpDemos\bin\Debug\ServicenettcpDemos.exe
+D:\MyOwnCR\WCFDemos\ServicenettcpDemos\ServicenettcpDemos\bin\Debug\ServicenettcpDemos.pdb
+D:\MyOwnCR\WCFDemos\ServicenettcpDemos\ServicenettcpDemos\obj\Debug\ServicenettcpDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\ServicenettcpDemos\ServicenettcpDemos\obj\Debug\ServicenettcpDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\ServicenettcpDemos\ServicenettcpDemos\obj\Debug\ServicenettcpDemos.exe
+D:\MyOwnCR\WCFDemos\ServicenettcpDemos\ServicenettcpDemos\obj\Debug\ServicenettcpDemos.pdb

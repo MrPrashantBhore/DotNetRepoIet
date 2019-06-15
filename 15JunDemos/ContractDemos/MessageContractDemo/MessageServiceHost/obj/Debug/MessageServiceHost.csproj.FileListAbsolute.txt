@@ -1,0 +1,7 @@
+C:\Users\Vasudha\source\repos\MessageContractDemo\MessageServiceHost\bin\Debug\MessageServiceHost.exe.config
+C:\Users\Vasudha\source\repos\MessageContractDemo\MessageServiceHost\bin\Debug\MessageServiceHost.exe
+C:\Users\Vasudha\source\repos\MessageContractDemo\MessageServiceHost\bin\Debug\MessageServiceHost.pdb
+C:\Users\Vasudha\source\repos\MessageContractDemo\MessageServiceHost\obj\Debug\MessageServiceHost.csprojAssemblyReference.cache
+C:\Users\Vasudha\source\repos\MessageContractDemo\MessageServiceHost\obj\Debug\MessageServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Vasudha\source\repos\MessageContractDemo\MessageServiceHost\obj\Debug\MessageServiceHost.exe
+C:\Users\Vasudha\source\repos\MessageContractDemo\MessageServiceHost\obj\Debug\MessageServiceHost.pdb

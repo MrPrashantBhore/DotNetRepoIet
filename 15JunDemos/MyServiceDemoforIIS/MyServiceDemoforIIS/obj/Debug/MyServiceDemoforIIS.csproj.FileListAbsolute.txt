@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\15JunDemos\MyServiceDemoforIIS\MyServiceDemoforIIS\bin\MyServiceDemoforIIS.dll.config
+D:\MyOwnCR\WCFDemos\15JunDemos\MyServiceDemoforIIS\MyServiceDemoforIIS\bin\MyServiceDemoforIIS.dll
+D:\MyOwnCR\WCFDemos\15JunDemos\MyServiceDemoforIIS\MyServiceDemoforIIS\bin\MyServiceDemoforIIS.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\MyServiceDemoforIIS\MyServiceDemoforIIS\obj\Debug\MyServiceDemoforIIS.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\MyServiceDemoforIIS\MyServiceDemoforIIS\obj\Debug\MyServiceDemoforIIS.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\MyServiceDemoforIIS\MyServiceDemoforIIS\obj\Debug\MyServiceDemoforIIS.dll
+D:\MyOwnCR\WCFDemos\15JunDemos\MyServiceDemoforIIS\MyServiceDemoforIIS\obj\Debug\MyServiceDemoforIIS.pdb

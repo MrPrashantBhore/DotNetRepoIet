@@ -1,0 +1,6 @@
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientIISDemo\ClientIISDemo\bin\Debug\ClientIISDemo.exe.config
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientIISDemo\ClientIISDemo\bin\Debug\ClientIISDemo.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientIISDemo\ClientIISDemo\bin\Debug\ClientIISDemo.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientIISDemo\ClientIISDemo\obj\Debug\ClientIISDemo.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientIISDemo\ClientIISDemo\obj\Debug\ClientIISDemo.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientIISDemo\ClientIISDemo\obj\Debug\ClientIISDemo.pdb

@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\DataContractClientDemo\DataContractClientDemo\bin\Debug\DataContractClientDemo.exe.config
+D:\MyOwnCR\WCFDemos\DataContractClientDemo\DataContractClientDemo\bin\Debug\DataContractClientDemo.exe
+D:\MyOwnCR\WCFDemos\DataContractClientDemo\DataContractClientDemo\bin\Debug\DataContractClientDemo.pdb
+D:\MyOwnCR\WCFDemos\DataContractClientDemo\DataContractClientDemo\obj\Debug\DataContractClientDemo.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\DataContractClientDemo\DataContractClientDemo\obj\Debug\DataContractClientDemo.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\DataContractClientDemo\DataContractClientDemo\obj\Debug\DataContractClientDemo.exe
+D:\MyOwnCR\WCFDemos\DataContractClientDemo\DataContractClientDemo\obj\Debug\DataContractClientDemo.pdb

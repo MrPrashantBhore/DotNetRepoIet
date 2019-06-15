@@ -1,0 +1,14 @@
+D:\MyOwnCR\C#Programming\SportsService\SportsService\bin\Debug\SportsService.dll.config
+D:\MyOwnCR\C#Programming\SportsService\SportsService\bin\Debug\SportsService.dll
+D:\MyOwnCR\C#Programming\SportsService\SportsService\bin\Debug\SportsService.pdb
+D:\MyOwnCR\C#Programming\SportsService\SportsService\obj\Debug\SportsService.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\SportsService\SportsService\obj\Debug\SportsService.dll
+D:\MyOwnCR\C#Programming\SportsService\SportsService\obj\Debug\SportsService.pdb
+D:\MyOwnCR\C#Programming\SportsService\SportsService\obj\Debug\SportsService.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\SessionDemos\SportsService\SportsService\obj\Debug\SportsService.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\SessionDemos\SportsService\SportsService\obj\Debug\SportsService.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\SessionDemos\SportsService\SportsService\obj\Debug\SportsService.dll
+D:\MyOwnCR\WCFDemos\SessionDemos\SportsService\SportsService\obj\Debug\SportsService.pdb
+D:\MyOwnCR\WCFDemos\SessionDemos\SportsService\SportsService\bin\Debug\SportsService.dll.config
+D:\MyOwnCR\WCFDemos\SessionDemos\SportsService\SportsService\bin\Debug\SportsService.dll
+D:\MyOwnCR\WCFDemos\SessionDemos\SportsService\SportsService\bin\Debug\SportsService.pdb

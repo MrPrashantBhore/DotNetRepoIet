@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientInstancingDemos\ClientInstancingDemos\bin\Debug\ClientInstancingDemos.exe.config
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientInstancingDemos\ClientInstancingDemos\bin\Debug\ClientInstancingDemos.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientInstancingDemos\ClientInstancingDemos\bin\Debug\ClientInstancingDemos.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientInstancingDemos\ClientInstancingDemos\obj\Debug\ClientInstancingDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientInstancingDemos\ClientInstancingDemos\obj\Debug\ClientInstancingDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientInstancingDemos\ClientInstancingDemos\obj\Debug\ClientInstancingDemos.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\ClientInstancingDemos\ClientInstancingDemos\obj\Debug\ClientInstancingDemos.pdb

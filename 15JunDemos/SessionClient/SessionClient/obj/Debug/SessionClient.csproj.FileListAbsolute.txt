@@ -1,0 +1,14 @@
+D:\MyOwnCR\C#Programming\SessionClient\SessionClient\bin\Debug\SessionClient.exe.config
+D:\MyOwnCR\C#Programming\SessionClient\SessionClient\bin\Debug\SessionClient.exe
+D:\MyOwnCR\C#Programming\SessionClient\SessionClient\bin\Debug\SessionClient.pdb
+D:\MyOwnCR\C#Programming\SessionClient\SessionClient\obj\Debug\SessionClient.csprojAssemblyReference.cache
+D:\MyOwnCR\C#Programming\SessionClient\SessionClient\obj\Debug\SessionClient.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\SessionClient\SessionClient\obj\Debug\SessionClient.exe
+D:\MyOwnCR\C#Programming\SessionClient\SessionClient\obj\Debug\SessionClient.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\SessionClient\SessionClient\bin\Debug\SessionClient.exe.config
+D:\MyOwnCR\WCFDemos\15JunDemos\SessionClient\SessionClient\bin\Debug\SessionClient.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\SessionClient\SessionClient\bin\Debug\SessionClient.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\SessionClient\SessionClient\obj\Debug\SessionClient.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\SessionClient\SessionClient\obj\Debug\SessionClient.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\SessionClient\SessionClient\obj\Debug\SessionClient.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\SessionClient\SessionClient\obj\Debug\SessionClient.pdb

@@ -1,0 +1,7 @@
+D:\MyOwnCR\C#Programming\SportsService\SportsClient\bin\Debug\SportsClient.exe.config
+D:\MyOwnCR\C#Programming\SportsService\SportsClient\bin\Debug\SportsClient.exe
+D:\MyOwnCR\C#Programming\SportsService\SportsClient\bin\Debug\SportsClient.pdb
+D:\MyOwnCR\C#Programming\SportsService\SportsClient\obj\Debug\SportsClient.csprojAssemblyReference.cache
+D:\MyOwnCR\C#Programming\SportsService\SportsClient\obj\Debug\SportsClient.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\C#Programming\SportsService\SportsClient\obj\Debug\SportsClient.exe
+D:\MyOwnCR\C#Programming\SportsService\SportsClient\obj\Debug\SportsClient.pdb

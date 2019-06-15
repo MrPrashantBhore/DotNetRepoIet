@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\15JunDemos\WCFTCPServiceDemo\WCFTCPServiceDemo\bin\Debug\WCFTCPServiceDemo.exe.config
+D:\MyOwnCR\WCFDemos\15JunDemos\WCFTCPServiceDemo\WCFTCPServiceDemo\bin\Debug\WCFTCPServiceDemo.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\WCFTCPServiceDemo\WCFTCPServiceDemo\bin\Debug\WCFTCPServiceDemo.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\WCFTCPServiceDemo\WCFTCPServiceDemo\obj\Debug\WCFTCPServiceDemo.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\WCFTCPServiceDemo\WCFTCPServiceDemo\obj\Debug\WCFTCPServiceDemo.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\WCFTCPServiceDemo\WCFTCPServiceDemo\obj\Debug\WCFTCPServiceDemo.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\WCFTCPServiceDemo\WCFTCPServiceDemo\obj\Debug\WCFTCPServiceDemo.pdb

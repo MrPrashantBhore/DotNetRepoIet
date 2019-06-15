@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\MessagecontractlcientDemos\MessagecontractlcientDemos\bin\Debug\MessagecontractlcientDemos.exe.config
+D:\MyOwnCR\WCFDemos\MessagecontractlcientDemos\MessagecontractlcientDemos\bin\Debug\MessagecontractlcientDemos.exe
+D:\MyOwnCR\WCFDemos\MessagecontractlcientDemos\MessagecontractlcientDemos\bin\Debug\MessagecontractlcientDemos.pdb
+D:\MyOwnCR\WCFDemos\MessagecontractlcientDemos\MessagecontractlcientDemos\obj\Debug\MessagecontractlcientDemos.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\MessagecontractlcientDemos\MessagecontractlcientDemos\obj\Debug\MessagecontractlcientDemos.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\MessagecontractlcientDemos\MessagecontractlcientDemos\obj\Debug\MessagecontractlcientDemos.exe
+D:\MyOwnCR\WCFDemos\MessagecontractlcientDemos\MessagecontractlcientDemos\obj\Debug\MessagecontractlcientDemos.pdb

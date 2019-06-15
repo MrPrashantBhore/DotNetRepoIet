@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\netTcpClientDemo\netTcpClientDemo\obj\Debug\netTcpClientDemo.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\netTcpClientDemo\netTcpClientDemo\obj\Debug\netTcpClientDemo.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\netTcpClientDemo\netTcpClientDemo\bin\Debug\netTcpClientDemo.exe.config
+D:\MyOwnCR\WCFDemos\netTcpClientDemo\netTcpClientDemo\bin\Debug\netTcpClientDemo.exe
+D:\MyOwnCR\WCFDemos\netTcpClientDemo\netTcpClientDemo\bin\Debug\netTcpClientDemo.pdb
+D:\MyOwnCR\WCFDemos\netTcpClientDemo\netTcpClientDemo\obj\Debug\netTcpClientDemo.exe
+D:\MyOwnCR\WCFDemos\netTcpClientDemo\netTcpClientDemo\obj\Debug\netTcpClientDemo.pdb

@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\15JunDemos\InstancindServiceDemo\InstancindServiceDemo\bin\Debug\InstancindServiceDemo.exe.config
+D:\MyOwnCR\WCFDemos\15JunDemos\InstancindServiceDemo\InstancindServiceDemo\bin\Debug\InstancindServiceDemo.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\InstancindServiceDemo\InstancindServiceDemo\bin\Debug\InstancindServiceDemo.pdb
+D:\MyOwnCR\WCFDemos\15JunDemos\InstancindServiceDemo\InstancindServiceDemo\obj\Debug\InstancindServiceDemo.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\InstancindServiceDemo\InstancindServiceDemo\obj\Debug\InstancindServiceDemo.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\15JunDemos\InstancindServiceDemo\InstancindServiceDemo\obj\Debug\InstancindServiceDemo.exe
+D:\MyOwnCR\WCFDemos\15JunDemos\InstancindServiceDemo\InstancindServiceDemo\obj\Debug\InstancindServiceDemo.pdb
