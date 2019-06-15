@@ -1,0 +1,6 @@
+D:\MyOwnCR\WCFDemos\MathCaluclatorServiceDemos\ClientDemo\bin\Debug\ClientDemo.exe.config
+D:\MyOwnCR\WCFDemos\MathCaluclatorServiceDemos\ClientDemo\bin\Debug\ClientDemo.exe
+D:\MyOwnCR\WCFDemos\MathCaluclatorServiceDemos\ClientDemo\bin\Debug\ClientDemo.pdb
+D:\MyOwnCR\WCFDemos\MathCaluclatorServiceDemos\ClientDemo\obj\Debug\ClientDemo.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\MathCaluclatorServiceDemos\ClientDemo\obj\Debug\ClientDemo.exe
+D:\MyOwnCR\WCFDemos\MathCaluclatorServiceDemos\ClientDemo\obj\Debug\ClientDemo.pdb

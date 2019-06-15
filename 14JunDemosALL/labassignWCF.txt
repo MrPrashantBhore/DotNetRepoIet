@@ -1,0 +1,18 @@
+The lab assignment are as below,
+
+Create a WCF service that
+
+a. displays the list of Sports
+
+b. Allows to add new sport
+
+
+
+The same assignment should be done 
+
+1.Without using database data  (Lab1)
+
+2.Using database data (lab2)
+
+
+Also create client application for each of the above services.

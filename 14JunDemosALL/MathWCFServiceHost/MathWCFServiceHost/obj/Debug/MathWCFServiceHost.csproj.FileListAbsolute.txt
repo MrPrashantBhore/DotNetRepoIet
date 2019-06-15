@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathWCFServiceHost\MathWCFServiceHost\bin\Debug\MathWCFServiceHost.exe.config
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathWCFServiceHost\MathWCFServiceHost\bin\Debug\MathWCFServiceHost.exe
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathWCFServiceHost\MathWCFServiceHost\bin\Debug\MathWCFServiceHost.pdb
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathWCFServiceHost\MathWCFServiceHost\obj\Debug\MathWCFServiceHost.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathWCFServiceHost\MathWCFServiceHost\obj\Debug\MathWCFServiceHost.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathWCFServiceHost\MathWCFServiceHost\obj\Debug\MathWCFServiceHost.exe
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathWCFServiceHost\MathWCFServiceHost\obj\Debug\MathWCFServiceHost.pdb

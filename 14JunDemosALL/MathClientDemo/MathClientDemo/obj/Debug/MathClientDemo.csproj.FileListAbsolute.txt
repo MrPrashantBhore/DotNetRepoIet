@@ -1,0 +1,7 @@
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathClientDemo\MathClientDemo\bin\Debug\MathClientDemo.exe.config
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathClientDemo\MathClientDemo\bin\Debug\MathClientDemo.exe
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathClientDemo\MathClientDemo\bin\Debug\MathClientDemo.pdb
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathClientDemo\MathClientDemo\obj\Debug\MathClientDemo.csprojAssemblyReference.cache
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathClientDemo\MathClientDemo\obj\Debug\MathClientDemo.csproj.CoreCompileInputs.cache
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathClientDemo\MathClientDemo\obj\Debug\MathClientDemo.exe
+D:\MyOwnCR\WCFDemos\14JunDemosALL\MathClientDemo\MathClientDemo\obj\Debug\MathClientDemo.pdb
